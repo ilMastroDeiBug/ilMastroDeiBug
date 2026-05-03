@@ -47,8 +47,3 @@
     <img src="https://skillicons.dev/icons?i=git,github,docker" />
   </a>
 </p>
-
----
-<p align="center">
-  <i>"Architecture is about the important stuff. Whatever that is."</i>
-</p>
