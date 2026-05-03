@@ -7,13 +7,13 @@
 
 ---
 
-## 🎨 About Me
+## About Me
 
 * 🌱 I'm 16 years old, currently in my third year of High School.
   
 ---
 
-## 💻 Tech Activities
+## Activities
 
 * **Creator & Sole Architect of NOSPOILER** (Present)
   * Developing a cross-platform B2C entertainment tracking app from the ground up using **Flutter** & **Dart**.
@@ -25,7 +25,7 @@
 
 ---
 
-## </> Skills
+## Skills
 
 ### 🖥️ Programming Languages:
 <p align="left">
