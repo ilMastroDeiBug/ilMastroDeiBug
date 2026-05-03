@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/[ilMastroDeiBug]"><img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=flat&logo=github&logoColor=white" alt="GitHub Follow" /></a>
-  <a href="mailto:bazzo.tech.guides@gmail.com"><img src="https://img.shields.io/badge/Email-bazzo.--tech.guides%40email.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:bazzo.tech.guides@gmail.com"><img src="https://img.shields.io/badge/Email-bazzo.-tech.guides%40email.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
