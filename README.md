@@ -21,7 +21,7 @@
   * Integrating seamless AI insights using Groq API (Llama 3.1) and serverless Edge Functions via **Supabase**.
 
 * **Winner of a 1500€ School Tech Grant** 
-  * Lead the development of a highly scalable mobile application MVP using Flutter, Dart, and Firebase.
+  * Lead the development of a highly scalable mobile application using Flutter, Dart, and Firebase.
 
 ---
 
@@ -30,7 +30,7 @@
 ### 🖥️ Programming Languages:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dart,python,kotlin,xaml" />
+    <img src="https://skillicons.dev/icons?i=cs,dart,python,kotlin" />
   </a>
 </p>
 
@@ -44,6 +44,6 @@
 ### ⚙️ Tools & Architecture:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,visualstudio,vscode" />
   </a>
 </p>
