@@ -9,7 +9,7 @@
 
 ## About Me
 
-* 🌱 I'm 16 years old, currently in my third year of High School.
+* 🌱 I'm 16 years old, currently in my third year of High School at ITT Blaise Pascal in Cesena.
   
 ---
 
@@ -20,7 +20,7 @@
   * Strictly adhering to **Clean Architecture** principles, utilizing advanced Dependency Injection (`get_it`) and unidirectional data flow.
   * Integrating seamless AI insights using Groq API (Llama 3.1) and serverless Edge Functions via **Supabase**.
 
-* **Winner of a 1500€ School Tech Grant** 
+* **Winner of  the "IERI È OGGI È DOMANI" national school project competition and a 1500€ School Grant** 
   * Lead the development of a highly scalable mobile application using Flutter, Dart, and Firebase.
 
 ---
